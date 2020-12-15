@@ -2,7 +2,7 @@
 title: "Facile synthesis of sulfur doped Sb2Se3 nanosheets with enhanced electrochemical performance"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about.'
+excerpt: ''
 date: Apr 2013
 venue: 'Journal of Alloys and Compounds'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0925838813014588'
